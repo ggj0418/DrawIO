@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-15T05:43:31.111Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="uoaFDYt3Coi7dAWdye05" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-15T05:45:13.326Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="mzQFMxNM2Wr4SDbeIJ9C" version="15.9.6" type="github">
   <diagram name="Page-1" id="9361dd3d-8414-5efd-6122-117bd74ce7a7">
-    <mxGraphModel dx="1346" dy="1603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="4291" dy="3206" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -94,7 +94,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SZOiIeE2iXW8za4jXHJB-89" value="" style="fillColor=#DEE8FF;strokeColor=none" vertex="1" parent="1">
-          <mxGeometry x="1650" y="902" width="1570" height="1159" as="geometry" />
+          <mxGeometry x="1650" y="880" width="1570" height="1159" as="geometry" />
         </mxCell>
         <mxCell id="SZOiIeE2iXW8za4jXHJB-90" value="조각 거래 진행" style="rounded=1;fontStyle=1;fillColor=#FFD966;strokeColor=none" vertex="1" parent="1">
           <mxGeometry x="1673" y="911" width="150" height="30" as="geometry" />
