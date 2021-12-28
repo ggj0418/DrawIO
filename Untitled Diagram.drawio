@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-28T01:51:34.934Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="iBGzraM2ZZGuNzTx5gdy" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-28T02:09:19.419Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="r1fSLhBXasojQreXa4ZW" version="16.1.0" type="github">
   <diagram name="Page-1" id="9361dd3d-8414-5efd-6122-117bd74ce7a7">
     <mxGraphModel dx="2873" dy="1696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1248,9 +1248,9 @@
           <mxGeometry x="1580" y="3550" width="1710" height="1870" as="geometry" />
         </mxCell>
         <mxCell id="H5Ijw8n-RiaFuIDULYaY-72" value="" style="fillColor=#DEE8FF;strokeColor=none" vertex="1" parent="1">
-          <mxGeometry x="1650" y="3660" width="1570" height="1710" as="geometry" />
+          <mxGeometry x="1652" y="3660" width="1570" height="1710" as="geometry" />
         </mxCell>
-        <mxCell id="H5Ijw8n-RiaFuIDULYaY-73" value="클럽딜 수정" style="rounded=1;fontStyle=1;fillColor=#FFD966;strokeColor=none" vertex="1" parent="1">
+        <mxCell id="H5Ijw8n-RiaFuIDULYaY-73" value="클럽딜 피드백 등록" style="rounded=1;fontStyle=1;fillColor=#FFD966;strokeColor=none" vertex="1" parent="1">
           <mxGeometry x="1660" y="3670" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="H5Ijw8n-RiaFuIDULYaY-74" value="Client (Partner)" style="shadow=1;fillColor=#A2C4C9;strokeColor=none;fontSize=16;" vertex="1" parent="1">
@@ -1262,7 +1262,7 @@
         <mxCell id="H5Ijw8n-RiaFuIDULYaY-76" value="Database" style="shadow=1;fillColor=#A2C4C9;strokeColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="3010" y="3720" width="105" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="H5Ijw8n-RiaFuIDULYaY-77" value="Company 수정 API 요청" style="edgeStyle=elbowEdgeStyle;elbow=vertical;verticalLabelPosition=top;verticalAlign=bottom;fontSize=16;" edge="1" parent="1">
+        <mxCell id="H5Ijw8n-RiaFuIDULYaY-77" value="Clubdeal Feedback 등록 API 요청" style="edgeStyle=elbowEdgeStyle;elbow=vertical;verticalLabelPosition=top;verticalAlign=bottom;fontSize=16;" edge="1" parent="1">
           <mxGeometry x="1924.5" y="3591.88" width="100" height="100" as="geometry">
             <mxPoint x="1847" y="3824.88" as="sourcePoint" />
             <mxPoint x="2460" y="3824" as="targetPoint" />
@@ -1502,25 +1502,16 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H5Ijw8n-RiaFuIDULYaY-121" value="" style="edgeStyle=none;endArrow=none;dashed=1;startArrow=none;" edge="1" parent="1" source="H5Ijw8n-RiaFuIDULYaY-122">
+        <mxCell id="H5Ijw8n-RiaFuIDULYaY-123" value="" style="edgeStyle=none;endArrow=none;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="H5Ijw8n-RiaFuIDULYaY-89">
           <mxGeometry x="3013.551180555555" y="4205" width="100" height="100" as="geometry">
             <mxPoint x="3062" y="4080" as="sourcePoint" />
-            <mxPoint x="3061.91" y="4199.4400000000005" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="H5Ijw8n-RiaFuIDULYaY-122" value="" style="fillColor=#CC4125;strokeColor=#660000" vertex="1" parent="1">
-          <mxGeometry x="3056.5" y="4143" width="10" height="53.72" as="geometry" />
-        </mxCell>
-        <mxCell id="H5Ijw8n-RiaFuIDULYaY-123" value="" style="edgeStyle=none;endArrow=none;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="H5Ijw8n-RiaFuIDULYaY-89" target="H5Ijw8n-RiaFuIDULYaY-122">
-          <mxGeometry x="3013.551180555555" y="4205" width="100" height="100" as="geometry">
-            <mxPoint x="3062" y="4080" as="sourcePoint" />
-            <mxPoint x="3061.91" y="4199.4400000000005" as="targetPoint" />
+            <mxPoint x="3061.5" y="4143" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="H5Ijw8n-RiaFuIDULYaY-124" value="Company 등록 요청 (이거는 스냅샷 데이터인데 &#xa;위와 동일한 값에다가 parent_company_id만 추가)" style="edgeStyle=elbowEdgeStyle;elbow=vertical;verticalLabelPosition=top;verticalAlign=bottom;fontSize=16;align=left;" edge="1" parent="1">
-          <mxGeometry x="1.5" y="3744.12" width="100" height="100" as="geometry">
-            <mxPoint x="2475.5" y="4140.12" as="sourcePoint" />
-            <mxPoint x="3054.5" y="4140.4" as="targetPoint" />
+          <mxGeometry x="3.5" y="3744.12" width="100" height="100" as="geometry">
+            <mxPoint x="2477.5" y="4140.12" as="sourcePoint" />
+            <mxPoint x="3057" y="4140" as="targetPoint" />
             <Array as="points" />
             <mxPoint x="-174" as="offset" />
           </mxGeometry>
