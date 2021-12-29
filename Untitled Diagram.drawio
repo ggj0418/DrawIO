@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-29T04:58:39.081Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="lIdQOl4jfQikQzMkQkOg" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-29T07:33:08.965Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="0ehUIYX5ScbCObEYlcru" version="16.1.0" type="github">
   <diagram name="Page-1" id="9361dd3d-8414-5efd-6122-117bd74ce7a7">
-    <mxGraphModel dx="2873" dy="1696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="6546" dy="2403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1312,6 +1312,70 @@
           <mxGeometry x="2458.18" y="2104.44" width="100" height="100" as="geometry">
             <mxPoint x="3051.1199999999994" y="2247.72" as="sourcePoint" />
             <mxPoint x="2473.4999999999995" y="2246.89432" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8JEkLH0mDZxotlu1_mKB-71" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3440" y="-80" width="2390" height="1500" as="geometry" />
+        </mxCell>
+        <mxCell id="8JEkLH0mDZxotlu1_mKB-72" value="" style="fillColor=#DEE8FF;strokeColor=none" vertex="1" parent="1">
+          <mxGeometry x="-3410" y="20.139999999999986" width="1405" height="838" as="geometry" />
+        </mxCell>
+        <mxCell id="8JEkLH0mDZxotlu1_mKB-73" value="클럽딜 지분 구매 등록" style="rounded=1;fontStyle=1;fillColor=#FFD966;strokeColor=none" vertex="1" parent="1">
+          <mxGeometry x="-3390" y="40.139999999999986" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8JEkLH0mDZxotlu1_mKB-74" value="Client&#xa;(User Service)" style="shadow=1;fillColor=#A2C4C9;strokeColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-3255" y="90.13999999999999" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8JEkLH0mDZxotlu1_mKB-75" value="KG Client&#xa;(Popup)" style="shadow=1;fillColor=#A2C4C9;strokeColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-2882" y="90.13999999999999" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8JEkLH0mDZxotlu1_mKB-76" value="KG Server" style="shadow=1;fillColor=#A2C4C9;strokeColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-2505" y="90.13999999999999" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8JEkLH0mDZxotlu1_mKB-84" value="응답" style="edgeStyle=elbowEdgeStyle;elbow=vertical;verticalLabelPosition=top;verticalAlign=bottom;fontSize=16;" edge="1" parent="1">
+          <mxGeometry x="-3119" y="595.37" width="100" height="100" as="geometry">
+            <mxPoint x="-2833.499999999999" y="828.4900000000004" as="sourcePoint" />
+            <mxPoint x="-3196.5" y="828.3699999999995" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8JEkLH0mDZxotlu1_mKB-85" value="" style="fillColor=#CC4125;strokeColor=#660000" vertex="1" parent="1">
+          <mxGeometry x="-3207.5" y="192.69999999999993" width="10" height="645.44" as="geometry" />
+        </mxCell>
+        <mxCell id="8JEkLH0mDZxotlu1_mKB-86" value="" style="edgeStyle=none;endArrow=none;dashed=1;" edge="1" parent="1">
+          <mxGeometry x="-3251.838819444444" y="238.14" width="100" height="100" as="geometry">
+            <mxPoint x="-3203.4100000000008" y="143.14" as="sourcePoint" />
+            <mxPoint x="-3203" y="190.14" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8JEkLH0mDZxotlu1_mKB-101" value="Bullida&#xa;Server" style="shadow=1;fillColor=#A2C4C9;strokeColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-2180" y="90.13999999999999" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8JEkLH0mDZxotlu1_mKB-107" value="KG 이니시스 인증 프로세스" style="rounded=1;fontStyle=1;fillColor=#FFD966;strokeColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-3410" y="-60" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8JEkLH0mDZxotlu1_mKB-108" value="" style="fillColor=#CC4125;strokeColor=#660000" vertex="1" parent="1">
+          <mxGeometry x="-2290" y="-570" width="10" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="8JEkLH0mDZxotlu1_mKB-109" value="Clubdeal Trade Sale 값 단일조회 요청" style="edgeStyle=elbowEdgeStyle;elbow=vertical;verticalLabelPosition=top;verticalAlign=bottom;fontSize=16;" edge="1" parent="1">
+          <mxGeometry x="-2132.5" y="-733" width="100" height="100" as="geometry">
+            <mxPoint x="-2210" y="-500.0000000000002" as="sourcePoint" />
+            <mxPoint x="-1845.5" y="-499.6600000000001" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8JEkLH0mDZxotlu1_mKB-110" value="응답" style="edgeStyle=elbowEdgeStyle;elbow=vertical;verticalLabelPosition=top;verticalAlign=bottom;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;" edge="1" parent="1">
+          <mxGeometry x="-1968" y="-512.72" width="100" height="100" as="geometry">
+            <mxPoint x="-1828" y="-369.72000000000014" as="sourcePoint" />
+            <mxPoint x="-2200" y="-370.0028571428569" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8JEkLH0mDZxotlu1_mKB-111" value="Clubdeal Trade Sale 값 단일조회 요청" style="edgeStyle=elbowEdgeStyle;elbow=vertical;verticalLabelPosition=top;verticalAlign=bottom;fontSize=16;" edge="1" parent="1">
+          <mxGeometry x="-3120" y="-0.2999999999999545" width="100" height="100" as="geometry">
+            <mxPoint x="-3197.5" y="232.69999999999982" as="sourcePoint" />
+            <mxPoint x="-2833" y="233.0400000000002" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
